@@ -9,11 +9,11 @@ redirect_from:
 
 I am a human.
 
-I am currently seeking 26 Fall PhD opportunities.
+I am currently seeking for 26 Fall PhD opportunities.
 
 Education
 ======
-Like many other
+yeyeye
 
 Publications
 ======
@@ -21,6 +21,3 @@ Publications
 
 Award & Honors
 ------
-The main
-
-This page is recently updated at Aug 23, 2025.
