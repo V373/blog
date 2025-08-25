@@ -35,6 +35,7 @@ In future, FUTURE HERE.
 
 
 My publications are listed as follows.
+
 Published & accepted:
 1. **Z. Zhang**, H. Hu, P. Zha, C. Zhuang, "[Unified Gravitational and Elasto-Geometrical Calibration for an Industrial Robot Using Closed-Form Formulation](https://ieeexplore.ieee.org/document/11020762)," _**IEEE Robotics & Automation Letters**_, vol. 10, no. 7, pp. 7619–7626, July 2025.
 2. **Z. Zhang**, Y. Lu, H. Hu, Z. Shen, C. Zhuang, "[A Hybrid Elasto-geometrical Calibration Method for Industrial Robot using Only Position Measurement](https://doi.org/10.1007/978-981-96-0783-9_21)," _**The 17-th International Conference on Intelligent Robotics and Applications (ICIRA)**_, 2024.
