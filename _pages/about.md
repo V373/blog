@@ -13,7 +13,7 @@ My name is Zhongkai Zhang (张忠恺), and I am a master student in the Robotics
 
 During my master's study, I have published 2 first-author paper (including a RA-L) and participated in multiple journal/conference papers (e.g., TMECH, ICIRA). I am now actively seeking a PhD position starting in Fall 2026 to further deepen my expertise in robotics and explore new possibilities for the applications of robot control in physical interaction scenarios. 
 
-Please feel free to contact me via [email](v373128@sjtu.edu.cn) if you are interested!
+Please feel free to contact me via email if you are interested!
 
 
 Education
