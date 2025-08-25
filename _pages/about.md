@@ -23,15 +23,15 @@ Education
 
 Research & Publications
 ------
-In my past research,I primaryly focused on:
+In my past research, I primaryly focused on:
 1. robot modeling, calibration & identification, error compensation;
 2. robot motion & force control.
 
 The overview of my previous works can be summarized as:
 
-FIG HERE.
+(FIG HERE.)
 
-In future, FUTURE HERE.
+In future, (FUTURE HERE).
 
 
 My publications are listed as follows.
