@@ -58,4 +58,3 @@ Award & Honors
 - National 2nd Prize in 20th ABU Asia-Pacific Robot Contest (2021)
 - National Excellent Prize in 13rd Zhou Peiyuan Undergraduate Mechanics Competition (2021)
 - Excellent Student Award, Harbin Institute of Technology (2019, 2020)
-- 
