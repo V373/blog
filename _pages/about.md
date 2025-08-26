@@ -27,12 +27,13 @@ In my past research, I primaryly focused on:
 1. robot modeling, calibration & identification, error compensation;
 2. robot motion & force control.
 
-The overview of my previous works can be summarized as:
+The overview of my previous works are shown in the following figure.
 
 (FIG HERE.)
 
-In future, (FUTURE HERE).
-
+In future, I would like to explore new possibilities in:
+1. robot intelligent control/percepetion with learning/model-based approaches
+2. application-oriented manipulation for physical human-robot interaction (pHRI) scenarios
 
 My publications are listed as follows.
 
