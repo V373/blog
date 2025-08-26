@@ -30,7 +30,7 @@ In my past research, I primarily focused on:
 
 The overview of my previous works is shown in the following figure.
 
-(FIG HERE.)
+![Research Overview](/images/test fig.png)
 
 In the future, I would like to explore new possibilities in:
 1. robot intelligent control/perception with learning/model-based approaches
