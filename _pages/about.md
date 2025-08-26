@@ -11,7 +11,7 @@ About me
 ------
 My name is Zhongkai Zhang (张忠恺), and I am a master student in the Robotics Institute, School of Mechanical Engineering at Shanghai Jiao Tong University. Currently, I am working under the supervision of Prof. Chungang Zhuang on robot modeling, calibration & identification; robot motion & force control.
 
-During my master's study, I have published 2 first-author paper (including a RA-L) and participated in multiple journal/conference papers (e.g., TMECH, ICIRA). I am now actively seeking a PhD position starting in Fall 2026 to further deepen my expertise in robotics and explore new possibilities for the applications of robot control in physical interaction scenarios. 
+During my master's study, I have published 2 first-author papers (including a RA-L) and participated in multiple journal/conference papers (e.g., TMECH, ICIRA). I am now actively seeking a PhD position starting in Fall 2026 to further deepen my expertise in robotics and explore new possibilities for the applications of robot control in physical interaction scenarios. 
 
 Please feel free to contact me via email if you are interested!
 
@@ -23,16 +23,16 @@ Education
 
 Research & Publications
 ------
-In my past research, I primaryly focused on:
+In my past research, I primarily focused on:
 1. robot modeling, calibration & identification, error compensation;
 2. robot motion & force control.
 
-The overview of my previous works are shown in the following figure.
+The overview of my previous works is shown in the following figure.
 
 (FIG HERE.)
 
-In future, I would like to explore new possibilities in:
-1. robot intelligent control/percepetion with learning/model-based approaches
+In the future, I would like to explore new possibilities in:
+1. robot intelligent control/perception with learning/model-based approaches
 2. application-oriented manipulation for physical human-robot interaction (pHRI) scenarios
 
 My publications are listed as follows.
