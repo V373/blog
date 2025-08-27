@@ -28,7 +28,7 @@ In my past research, I primarily focused on:
 2. residual motion/torque error compensation;
 3. robot motion & force control.
 
-The overview of my previous works is shown in the following figure:
+The overview of my previous works is shown in the following figure.
 
 ![Research Overview](research-overview.png)
 
