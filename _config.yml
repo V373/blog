@@ -25,16 +25,16 @@ author:
   avatar           : "250301.jpg"
   name             : "Zhongkai Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "M.Eng. in Robotics | SJTU"
-  location         : "Shanghai 200240, China"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "M.Eng. in Robotics"
+  location         : "Pokfulam, Hong Kong"
+  employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "v373128@sjtu.edu.cn" 
+  email            : "zhang373@hku.hk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=izPzKzMAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-9756-9238"
