@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ------
-My name is Zhongkai Zhang (张忠恺), and I was a master student in the Robotics Institute, School of Mechanical Engineering at Shanghai Jiao Tong University, supervised by Prof. Chungang Zhuang. Currently, I am working in [MIRoC lab](https://meweb.hku.hk/zljiang/) at the University of Hong Kong as a Research Assistant advised by [Prof. Zhongliang Jiang](https://mech.hku.hk/academic-staff/jiang-z-l/), focusing on robot manipulation and interaction with physical world.
+I am Zhongkai Zhang (张忠恺), and I am working in [MIRoC lab](https://meweb.hku.hk/zljiang/) at the University of Hong Kong as a Research Assistant advised by [Prof. Zhongliang Jiang](https://mech.hku.hk/academic-staff/jiang-z-l/), focusing on robot manipulation and interaction with physical world. Before that, I was a master student in the Robotics Institute, School of Mechanical Engineering at Shanghai Jiao Tong University, supervised by Prof. Chungang Zhuang.
 
 During my master's study, I have published 2 first-author papers (including a RA-L) and participated in multiple journal/conference papers (e.g., TMECH, ICIRA). I am now actively seeking a PhD position starting in Fall 2026 to further explore new possibilities for the applications of robot control / manipulation in physical interaction scenarios. 
 
